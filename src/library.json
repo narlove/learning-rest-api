@@ -1,0 +1,41 @@
+{
+    "books": [
+    {
+        "title": "Jailhouse Lawyer",
+        "uuid": "1",
+        "status": "REMOVED",
+        "authors": [
+            "James Patterson",
+            "Nancy Allen"
+        ],
+        "series": null
+    },
+    {
+        "title": "61 Hours",
+        "uuid": "2",
+        "status": "REMOVED",
+        "authors": [
+            "Lee Child"
+        ],
+        "series": "Jack Reacher"
+    },
+    {
+        "title": "Along Came a Spider",
+        "uuid": "3",
+        "status": "REMOVED",
+        "authors": [
+            "James Patterson"
+        ],
+        "series": "Alex Cross"
+    },
+    {
+        "title": "Never Go Back",
+        "uuid": "4",
+        "status": "REMOVED",
+        "authors": [
+            "Lee Child"
+        ],
+        "series": "Jack Reacher"
+    }
+]
+}
